@@ -1,6 +1,6 @@
 {
   "name": "workflow-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Proyecto de ejemplo de un flujo de trabajo con git con branches y merge de cambios",
   "main": "index.js",
   "scripts": {
