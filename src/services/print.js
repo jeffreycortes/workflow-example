@@ -1,5 +1,5 @@
 function print (text) {
-  console.lo(text);
+  console.log(text);
 }
 
 module.exports = print;
