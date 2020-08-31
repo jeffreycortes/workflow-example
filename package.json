@@ -1,0 +1,19 @@
+{
+  "name": "workflow-example",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo de un flujo de trabajo con git con branches y merge de cambios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreycortes/workflow-example.git"
+  },
+  "author": "Jeffrey Cortés",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffreycortes/workflow-example/issues"
+  },
+  "homepage": "https://github.com/jeffreycortes/workflow-example#readme"
+}
